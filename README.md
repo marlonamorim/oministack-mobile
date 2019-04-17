@@ -10,7 +10,7 @@ https://github.com/vinzscam/react-native-file-viewer
 É preciso executar o primeiro passo para IOS e o primeiro para Android da seguinte documentação,
 https://github.com/react-native-community/react-native-image-picker/blob/master/docs/Install.md
 
-Nota: É preciso realizar o link para ambas as bibliotecas.
+_Nota: É preciso realizar o link para ambas as bibliotecas._
 
 # Referência para geração e otimização do APK,
 https://facebook.github.io/react-native/docs/signed-apk-android
